@@ -1,0 +1,11 @@
+not really a problem, but is practice.
+
+
+// bool is a data type that can take on 2 values: true and false (all lowercase)
+
+declare a bool variable of the value true like this:
+
+bool a_variable = true;
+
+
+now, declare one that is false

@@ -1,0 +1,1 @@
+//write a program outtputing the number 6 by using a variable that is a double (but is not 6), and then explicitly converting it using static cast
