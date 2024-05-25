@@ -1,0 +1,6 @@
+write a program which asks the user for a number and then loops that many times printing out all natural 
+numbers before that. (You can use a for loop or while loop).
+
+Ex. 
+Input a number of terms: 7
+1 2 3 4 5 6 7 
