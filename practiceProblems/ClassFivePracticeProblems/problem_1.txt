@@ -1,0 +1,1 @@
+write a function that returns true and stores it inside the variable x. (Hint: call it in the main function)

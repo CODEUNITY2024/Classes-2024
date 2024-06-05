@@ -1,0 +1,1 @@
+write a function that multiplys two decimals and use it to calculate the product of 2 decimals. cout it. (Hint: you cannot use int as decimals won't be preserved)

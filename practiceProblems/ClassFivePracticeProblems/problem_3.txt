@@ -1,0 +1,1 @@
+write a function (function 1) that calls another function (function 2) you have made. It doesn't matter what these functions do, but make sure to call function 1 in the main function.
